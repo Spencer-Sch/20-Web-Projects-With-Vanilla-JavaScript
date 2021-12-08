@@ -18,4 +18,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 2: Project 1 - Form Validator
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
