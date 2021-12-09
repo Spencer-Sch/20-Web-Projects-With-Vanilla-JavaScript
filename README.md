@@ -22,4 +22,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 3: Project 2 - Movie Seat Booking
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
