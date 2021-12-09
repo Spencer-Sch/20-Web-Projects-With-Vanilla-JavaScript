@@ -26,4 +26,11 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 4: Project 3 - Custom Video Player
+
+✅ Lesson 1
+✅ Lesson 2
+
+To Be Continued...
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
