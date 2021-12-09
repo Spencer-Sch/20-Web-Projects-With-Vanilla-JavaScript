@@ -28,7 +28,7 @@ Tracking my progress through the course.
 
 #### Section 4: Project 3 - Custom Video Player
 
-✅ Lesson 1
+✅ Lesson 1 </br>
 ✅ Lesson 2
 
 To Be Continued...
