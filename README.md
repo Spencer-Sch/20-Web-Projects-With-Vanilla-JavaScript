@@ -34,4 +34,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 6: Project 5 - DOM Array Methods
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
