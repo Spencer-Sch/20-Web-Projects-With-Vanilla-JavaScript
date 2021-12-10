@@ -30,4 +30,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 5: Project 4 - Exchange Rate Calculator
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
