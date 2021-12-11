@@ -38,4 +38,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 7: Project 6 - Menu Slider & Modal
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
