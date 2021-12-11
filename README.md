@@ -42,4 +42,13 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 8: Project 7 - Hangman Game
+
+✅ Lesson 1 - Complete </br>
+✅ Lesson 2 - Complete </br>
+✅ Lesson 3 - Complete </br>
+✅ Lesson 4 - Complete </br>
+
+to be continued...
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
