@@ -46,4 +46,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 9: Project 8 - Meal Finder
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
