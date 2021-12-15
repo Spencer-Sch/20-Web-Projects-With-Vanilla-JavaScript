@@ -50,4 +50,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 10: Project 9 - Expense Tracker
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
