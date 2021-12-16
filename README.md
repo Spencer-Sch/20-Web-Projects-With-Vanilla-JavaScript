@@ -58,4 +58,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 12: Project 11 - Infinite Scroll Posts
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
