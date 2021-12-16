@@ -54,4 +54,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 11: Project 10 - Music Player
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
