@@ -62,4 +62,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 13: Project 12 - Typing Game
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
