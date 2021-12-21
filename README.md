@@ -66,4 +66,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 14: Project 13 - Speech Text Reader
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
