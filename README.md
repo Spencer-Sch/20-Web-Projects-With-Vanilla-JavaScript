@@ -70,4 +70,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 15: Project 14 - Memory Cards
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
