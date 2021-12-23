@@ -74,4 +74,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 16: Project 15 - Lyrics Search App
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
