@@ -86,4 +86,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 19: Project 18 - New Year Countdown
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
