@@ -90,4 +90,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 20: Project 19 - Sortable List
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
