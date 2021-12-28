@@ -82,4 +82,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 18: Project 17 - Breakout Game
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
