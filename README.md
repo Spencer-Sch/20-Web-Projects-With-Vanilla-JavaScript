@@ -94,4 +94,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 21: Project 20 - Speak Number Guessing Game
+
+✅ Complete
+
 [Back To The Top](#20-web-projects-with-vanilla-javascript)
